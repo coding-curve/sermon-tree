@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BlazorApp.Shared
+namespace SermonTree.Shared
 {
     public class WeatherForecast
     {
